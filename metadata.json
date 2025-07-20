@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Cours SkillQuest",
+  "description": "Une application pour générer des plans de cours structurés pour l'unité d'enseignement SkillQuest, optimisés pour Obsidian.",
+  "requestFramePermissions": []
+}
